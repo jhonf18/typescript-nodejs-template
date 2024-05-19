@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+      "no-console": false
+    },
+    "lib": ["es6"],
+    "types": ["reflect-metadata"],
+    "rulesDirectory": [],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+}
